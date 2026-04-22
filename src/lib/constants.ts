@@ -20,7 +20,7 @@ export const API_URLS = {
 }
 
 export const MPESA_TILL_NAME = "FINTECH VENTURES LCC"
-export const TILL_NUMBER = "717200"
+export const TILL_NUMBER = "7172200"
 export const TASKS_API_URL = "https://derekkemoi.github.io/Remo/tasks.json"
 
 export const ASSESSMENT_PASS_PERCENTAGE = 60
